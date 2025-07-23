@@ -2,6 +2,11 @@
 As a cybersecurity student juggling coursework, practical tools, and study materials, I was struggling to organize my hacking journey and academic life. This tool was created out of necessity to solve real problems:
 
 password for my user is Susan:Susan@123
+-------------------------------------------------------------------------------
+                            CYBERSPHERE
+                    Property of Susan Dhamala
+                      All Rights Reserved
+-------------------------------------------------------------------------------
 
 # CyberSphere - Your Personal Cybersecurity Companion
 
