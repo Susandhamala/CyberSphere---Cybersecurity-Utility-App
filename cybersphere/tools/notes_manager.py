@@ -1,3 +1,8 @@
+# -------------------------------------------------------------------------------
+#                             CYBERSPHERE
+#                     Property of Susan Dhamala
+#                       All Rights Reserved
+# -------------------------------------------------------------------------------
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog, filedialog
 import os
