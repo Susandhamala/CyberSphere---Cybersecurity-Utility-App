@@ -14,8 +14,10 @@ As a cybersecurity student juggling coursework, practical tools, and study mater
 - **Tool Fragmentation**: Switching between multiple applications
 
 **CyberSphere is not just a project - it's my solution to my own problems, and now it can be yours too.**
+``<img width="1241" height="662" alt="image" src="https://github.com/user-attachments/assets/980add6f-d303-4da9-8fac-6c538f388c32" />
 
 ## 🚀 Core Features
+``<img width="1261" height="579" alt="image" src="https://github.com/user-attachments/assets/cfae9783-53d7-42cc-a83e-561912bbff9f" />
 
 ### 📝 Advanced Notes Manager
 - **Subject-based organization** for structured learning
@@ -23,18 +25,23 @@ As a cybersecurity student juggling coursework, practical tools, and study mater
 - **Example**: [ST5062CEM-CW2-212c93a0-06df-4f2f-a5c7-da4381255bc3.pdf](data/files/protocool/ST5062CEM-CW2-212c93a0-06df-4f2f-a5c7-da4381255bc3.pdf) attached to coursework notes
 - **Rich text editing** for detailed documentation
 - **Local secure storage** for sensitive materials
+``<img width="1261" height="908" alt="image" src="https://github.com/user-attachments/assets/f302ea8a-0e6a-49bf-af13-6255b5d2871d" />
 
 ### 🔍 Professional Network Scanner (Nmap-like)
 - **Host Discovery**: Ping sweep to find active devices
 - **Port Scanning**: Service detection on target systems
 - **Real-time Results**: Live scanning feedback
 - **Educational Tool**: Learn network reconnaissance techniques safely
+  ``<img width="1001" height="779" alt="image" src="https://github.com/user-attachments/assets/58917243-f11b-4b1a-88c6-c54690341229" />
+
 
 ### 🔐 Enterprise Password Manager (Chrome/Edge-like)
 - **AES-256 Encryption**: Military-grade security for credentials
 - **Service Organization**: Group passwords by application/service
 - **Secure Clipboard**: One-click copy with auto-clear
 - **Export/Backup**: Never lose your credentials again
+``<img width="998" height="635" alt="image" src="https://github.com/user-attachments/assets/2b4cea44-968c-4b99-b9f2-46ae6140ff59" />
+
 
 ### 📅 Smart Exam Reminder & To-Do App
 - **Color-coded Priority System**:
@@ -44,7 +51,8 @@ As a cybersecurity student juggling coursework, practical tools, and study mater
   - **⚪ Gray** (> 12 days): Low priority - long-term planning
 - **Comprehensive Tracking**: Dates, times, locations, notes
 - **Academic Focus**: Perfect for coursework, exams, CTF competitions
-
+<img width="496" height="615" alt="image" src="https://github.com/user-attachments/assets/d74b5b45-2584-4a52-90a3-d2d6c347097b" />
+``<img width="1252" height="529" alt="image" src="https://github.com/user-attachments/assets/90cb70b9-9276-464f-a7a7-5d8958104ee0" />
 ## 🛠️ Dashboard Tools (Expandable)
 
 ### Current Tools:
@@ -163,33 +171,6 @@ Study Notes → Lab Reports → CTF Tracking → Real Projects
 - Start with basic note-taking
 - Gradually introduce advanced tools
 - Build confidence and skills over time
-
-## 🚀 Getting Started
-
-### For Students:
-1. **Download** the free version
-2. **Organize** your current study materials
-3. **Start** using the tools for your coursework
-4. **Upgrade** as you need more advanced features
-
-### For Educators:
-1. **Evaluate** for classroom use
-2. **Integrate** with your curriculum
-3. **License** for your institution
-4. **Customize** for your specific needs
-
-## 🎯 Success Metrics
-
-### **User Growth**:
-- **Month 1**: 100 users (students and educators)
-- **Month 6**: 10,000 users
-- **Year 1**: 100,000 users
-- **Year 3**: 1,000,000 users globally
-
-### **Revenue Projections**:
-- **Year 1**: $50,000 (freemium model)
-- **Year 2**: $500,000 (subscription growth)
-- **Year 3**: $2,000,000 (enterprise adoption)
 
 ## 🤝 Join the Journey
 
