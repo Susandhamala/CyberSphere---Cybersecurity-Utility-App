@@ -1,3 +1,9 @@
+-------------------------------------------------------------------------------
+                            CYBERSPHERE
+                    Property of Susan Dhamala
+                      All Rights Reserved
+-------------------------------------------------------------------------------
+
 import tkinter as tk
 from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
